@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shood-shood
-- 👀 I’m interested in algorithm and software development 
-- 🌱 I’m currently learning about .Net
-- 💞️ I’m looking to collaborate on project of various kind
+- 👀 I’m interested in innovative projects and solutions 
+- 🌱 All about System engineering on prem and cloud 
 - 📫 How to reach me mosh_shood@hotmail.com
 
 <!---
